@@ -1,5 +1,7 @@
 ![MaterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 # 💫 About Me:
+I’m Akki Aryan, a B.Tech student at VIT, diving deep into AI/ML and aspiring to make my mark as a backend developer. I’m on a mission to spark innovation in the medical field and revolutionize healthcare through technology.
+
 🔭 I’m currently working on Cancer Treatment App<br><br>🌱 I’m currently learning advanced AI/ML algorithms and their applications in enhancing user interface designs. Tensorflow,Pytorch<br><br>👯 I’m looking to collaborate on innovative projects that push the boundaries of web development and AI integration. Medical Chat Assistant<br><br>🤝 I’m looking for help with Build Own Cloud Service<br><br>💬 Ask me about anything about tech infused with ai/ml and improving healthcare<br><br>📫 How to reach me akkiaryan.education@gmail.com<br><br>⚡ Fun fact I have a unique affection for all kinds of bears, from the cuddly pandas to the majestic grizzlies!<br><br>
 
 
