@@ -1,7 +1,7 @@
-[![MaterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)]
+![MaterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm Akki Aryan but my friends call me ark</h1>
 <h3 align="center">I am a passionate Web Frontend Developer and UI/UX Designer with a keen interest in AI/ML. At 20 years old, I am continuously exploring the evolving landscape of technology and design.</h3>
-<img align ='right’ alt ='coding’ src=https://i.pinimg.com/originals/e6/84/7b/e6847b207903160b9b67da406b55628a.gif" alt="Text Work GIF">
+<img align ='right’ src=https://i.pinimg.com/originals/e6/84/7b/e6847b207903160b9b67da406b55628a.gif" alt="Text Work GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkiaryan&label=Profile%20views&color=0e75b6&style=flat" alt="akkiaryan" /> </p>
 
