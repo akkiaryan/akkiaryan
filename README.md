@@ -1,13 +1,9 @@
 ![MaterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Akki Aryan but my friends call me ark</h1>
 <h3 align="center">I am a passionate Web Frontend Developer and UI/UX Designer with a keen interest in AI/ML. At 20 years old, I am continuously exploring the evolving landscape of technology and design.</h3>
-<img align ='right’ src=https://i.pinimg.com/originals/e6/84/7b/e6847b207903160b9b67da406b55628a.gif" alt="Text Work GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkiaryan&label=Profile%20views&color=0e75b6&style=flat" alt="akkiaryan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkiaryan" alt="akkiaryan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/praara_samhaara" target="blank"><img src="https://img.shields.io/twitter/follow/praara_samhaara?logo=twitter&style=for-the-badge" alt="praara_samhaara" /></a> </p>
 
 - 🔭 I’m currently working on **Cancer Treatment App**
 
@@ -37,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akkiaryan&show_icons=true&locale=en" alt="akkiaryan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akkiaryan&" alt="akkiaryan" /></p>
+
